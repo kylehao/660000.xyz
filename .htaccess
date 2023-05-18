@@ -1,1 +1,4 @@
- 
+LayoutIgnoreURI *.php
+LayoutIgnoreURI *.cgi
+LayoutIgnoreURI *.htm
+LayoutIgnoreURI *.html
